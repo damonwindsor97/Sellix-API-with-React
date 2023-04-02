@@ -12,7 +12,7 @@ import Form from 'react-bootstrap/Form';
 
 
 
-const sellix = require("@sellix/node-sdk")("ddjty6fx05Ltf872kY1GrSFXvCVhkFtYaJXp92RQvYd0MJGvFCdvkO4BzFP7oFjz")
+const sellix = require("@sellix/node-sdk")("ENTER-YOUR-API-KEY-HERE ")
 
 const Products = (props) => {
 	const { onChange} = props;
