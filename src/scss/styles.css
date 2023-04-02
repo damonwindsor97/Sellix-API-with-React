@@ -1,0 +1,150 @@
+body {
+    transition: 0.5s;
+    display:flex;
+    flex-direction:column;
+    min-height:100vh;
+}
+
+h2, h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+/* ----------------NAVBAR------------------ */
+.navbar {
+    /* background: #84c9fad8 */
+    background-color: #58799499;
+    
+}
+
+.Logo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.navItem {
+    padding: 10px;
+}
+
+.navLink {
+    text-decoration: none;
+}
+.navLink:active {
+    text-decoration: none;
+    color: black;
+}
+.navLink:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.name-spot {
+    position: absolute;
+    margin-top:30px;
+    padding-bottom: 5px;
+}
+
+
+/* -----------SHOWCASE ------------ */
+
+.showcase {
+    margin-top: 1%;
+    padding-top: 1%;
+}
+
+/* --------------------------- */
+
+/* ------------------BUTTONS------------------- */
+
+
+.purchaseButton {
+    border-radius: 8px;
+    border-color: #181A1B;
+}
+.purchaseButton:hover {
+    background-color: #5945F5;
+    border-color: #2E1EA8;
+    color: white;
+}
+
+/* ----------------------------------- */
+/* ------------------CARDS------------------- */
+
+.productCard {
+    background-color: #658EAD;
+    min-height:25vh;
+}
+.productCard:hover {
+    background-color: #84C8FA;
+    border-color: #7742AD;
+    border-width: 2px;
+
+    animation: pulse;
+    animation-duration: 1s;
+}
+
+.productGroup {
+    padding-bottom: 40px;
+}
+
+
+/* ------------------FOOTER------------------ */
+.myFooter {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 14rem;
+    /* height: 200px; */
+    background-color: #58799499;
+    color: white;
+    text-align: center;
+}
+
+.footerCopyright {
+    position: relative;
+    top: 9vh;
+}
+
+.discordLogo {
+    width: 5%;
+    float:right;
+    padding-right: 10px;
+    margin-right: 50px;
+}
+
+.maths-footer {
+    float: left;
+}
+
+/*-------------- FORM CSS -----------------*/
+.myForm {
+    padding: 20px;
+    overflow:hidden; 
+    word-wrap:break-word;
+    width: 35%;
+    margin: auto;
+    background-color: #658EAD;
+    border-radius: 2px;
+}
+
+.myForm h1 {
+    text-align: center;
+}
+
+
+.formm {
+    margin: 20px;
+    margin-bottom: 10%;
+    margin-top: 5%;
+}

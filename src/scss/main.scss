@@ -1,0 +1,26 @@
+// Base
+
+
+// Components
+@import './components/carousel';
+@import './components/purchaseButton';
+
+$backgroundColour: #7361FF;
+$primaryColour: #2E1EA8;
+$secondaryColour: #5945F5;
+$highlightColour: #F5DD45;
+$secondaryHighlight: #A8940D;
+
+
+button {
+    border-radius: 10px;
+    background: $backgroundColour;
+}
+
+.colours {
+    color: #658EAD;
+    color: #84C8FA;
+    color: #FAE079;
+    color: #7742AD;
+    color: #B26BFA   
+}

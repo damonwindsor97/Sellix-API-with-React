@@ -1,0 +1,22 @@
+body {
+    background-color:     #181A1B;
+    transition: 0.5s;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.form-label {
+ color: white;   
+}
+
+.myForm p {
+
+    color: white
+}
+
+nav p {
+    color: white;
+}
