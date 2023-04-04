@@ -5,6 +5,7 @@ Our Frameworks are React.js and Bootstrap
 
 Working Light/Dark Mode - saves preference to Local Storage for next time.
 Save a name for the user via Local Storage also
+##Request Form NOT linked to any back-end
 
 # HTML, CSS, SCSS, JavaScript, React, Bootstrap
 
