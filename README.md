@@ -3,9 +3,10 @@
 Using the Sellix API which also has built-in seamless back-end functionality, just link everything to your Sellix Account and it's that easy!
 Our Frameworks are React.js and Bootstrap
 
-Working Light/Dark Mode - saves preference to Local Storage for next time.
-Save a name for the user via Local Storage also
-##Request Form NOT linked to any back-end
+- Working Light/Dark Mode - saves preference to Local Storage for next time.
+- Save a name for the user via Local Storage also
+
+## Request Form NOT linked to any back-end
 
 ### HTML, CSS, SCSS, JavaScript, React, Bootstrap
 
