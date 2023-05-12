@@ -1,12 +1,26 @@
-# Sellix API with React.js
-### A project made as an Assessment for my Diploma
+<div align="center">
 
-Using the Sellix API which also has built-in seamless back-end functionality, just link everything to your Sellix Account and it's that easy!
+<h3 align="center"> Sellix API with React.js</h3>
+
+  <p align="center">
+    Using the Sellix API which also has built-in seamless back-end functionality, just link everything to your Sellix Account and it's that easy!
 Our Frameworks are React.js and Bootstrap
+  </p>
+</div>
 
-- Working Light/Dark Mode - saves preference to Local Storage for next time.
-- Save a name for the user via Local Storage also
-- Pull Data from your Sellix Store and Display it as you please
+## A project made as an Assessment for my Diploma
+### Built With
+
+* [![React][React.js]][React-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+## Features
+
+* Working Light/Dark Mode - saves preference to Local Storage for next time.
+* Save a name for the user via Local Storage also
+* Pull Data from your Sellix Store and Display it as you please
+* Use Sellix's Back-End by using their 'Modal'.
+
 
 ### Prerequisites
 
@@ -35,7 +49,11 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Request Form NOT linked to any back-end
+## Known Bugs
+
+* Routes will stuff up if going to any page, from any page that is NOT the Home page.
+* Request Form is not linked to anything (not really a bug)
+
 
 ### HTML, CSS, SCSS, JavaScript, React, Bootstrap
 
