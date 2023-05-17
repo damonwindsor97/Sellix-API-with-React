@@ -6,6 +6,9 @@
     Using the Sellix API which also has built-in seamless back-end functionality, just link everything to your Sellix Account and it's that easy!
 Our Frameworks are React.js and Bootstrap
   </p>
+  <p align="center">
+    PLEASE NOTE!! There is no security built-in as of the moment, API key is public and the users entry validation is minimal.
+  </p>
 </div>
 
 ## A project made as an Assessment for my Diploma
